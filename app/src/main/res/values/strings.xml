@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stephen Calculator</string>
+    <string name="error_msg">Error</string>
+</resources>
